@@ -18,7 +18,7 @@ body{
 section{
     padding: 40px;
     background-color: dimgrey;
-    width: 1500px;
+    width: 500px;
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -30,7 +30,7 @@ section{
 }
 
 header img{
-    width: 200px ;
+    width: 290px ;
     height: 200px ;
 }
 
@@ -52,7 +52,7 @@ main a{
     text-decoration: none;
     color: dimgray;
     border-radius: 5px;
-    box-shadow: 10px 10px #bdbdbd;
+    box-shadow: 7px 7px #bdbdbd;
     transition: all .5s ease-in-out ;
 }
 
@@ -89,3 +89,6 @@ main a:hover{
 
 }
 
+button{
+    background-color: rgb(173, 144, 70);
+}
